@@ -19,5 +19,5 @@ def anagramas(first_word, sec_word):
     else:
         return "Не являются анаграммами"
 
-
+print("выбор", " обрыв")
 print(anagramas('выбор', 'обрыв'))

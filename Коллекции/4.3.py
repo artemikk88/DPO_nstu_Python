@@ -25,5 +25,5 @@ def send_message(phrase):
         prev_znak = code
     return result
 
-
+print("Hello, World!")
 print(send_message("Hello, World!"))
